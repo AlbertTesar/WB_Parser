@@ -1,4 +1,3 @@
-# WB_Parser
 # Wildberries Discount Tracker Bot
 
 Course project developed at Kuban State University (KubSU).
